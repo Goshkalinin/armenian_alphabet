@@ -156,7 +156,7 @@ def make_tg_post(photo, massage, audio):
 
     photo = open(photo, 'rb')
 
-    bot_token = '5435386776:AAEHm6zODpgVKo65jI8CIQKL4o3yL80S9Fc'
+    bot_token = 'token'
 
     # channel_name = "-1001577133132" # Goshka test channel
     channel_name = "@armenianalphabet"
